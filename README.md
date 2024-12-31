@@ -17,3 +17,9 @@ py -3.10 -m venv .venv
 ```bash
 pip install -r requirements.txt
 ```
+
+4. Execute the main script:
+```bash
+cd src
+python3 main.py
+```
